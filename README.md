@@ -1,4 +1,4 @@
-1.移动端fixed和input获取焦点软键盘弹出影响定位的问题?
+*1.移动端fixed和input获取焦点软键盘弹出影响定位的问题?*
 	 var h=$(window).height();
 	    $(window).resize(function() {
 	        if($(window).height()<h){
